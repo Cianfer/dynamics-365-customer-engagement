@@ -180,7 +180,7 @@ You need to create mobile offline profiles for users to configure filters that d
   
    - **Other data filter**. Make only the specified records for this entity available offline.  
   
-   If you select **Other records**, you can choose from the following:  
+   If you select **Other data filter**, you can choose from the following:  
   
    - **Download my records**. Make only your records available offline.  
   
@@ -194,15 +194,15 @@ You need to create mobile offline profiles for users to configure filters that d
   
    - **All records**. Make all records for this entity available offline.  
   
- **Business**  
+ **Business Unit**  
   
    - **Download related data only**. Make related data for this entity available offline. If you don’t set any relationships, no records for this entity will be available.  
   
    - **All records**. Make all records for this entity available offline.  
   
-   - **Other records**. Make only the specified records for this entity available offline.  
+   - **Other data filter**. Make only the specified records for this entity available offline.  
   
-   If you select **Other records**, you can choose from the following:  
+   If you select **Other data filter**, you can choose from the following:  
   
    - **Download my business unit’s records**. Make your business unit’s records available offline.  
   
